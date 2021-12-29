@@ -1,0 +1,83 @@
+# Compiled class file
+*.class
+
+# Log file
+*.log
+
+# BlueJ files
+*.ctxt
+
+# Mobile Tools for Java (J2ME)
+.mtj.tmp/
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+# virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
+hs_err_pid*
+
+# Serenity-BDD *
+CNB_APP_ANDROID/target/
+
+# Gradle *
+.gradle/
+build/
+
+# Ignore Gradle GUI config *
+gradle-app.setting
+
+# Not ignoring Gradle wrapper jar file (.jar files are usually ignored) *
+!gradle-wrapper.jar
+
+# Cache of project *
+.gradletasknamecache
+
+# Eclipse
+.classpath
+.project
+.metadata
+bin/
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.settings/
+.loadpath
+.recommenders
+
+# Intellij
+.idea/
+out/
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+#Sonar generated dir
+.sonar/
+
+### macOS ###
+# General
+.DS_Store
+/.idea/.gitignore
+/.idea/chl-per-apl-app-funcional-test.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/vcs.xml
+
+##Driver y App utilizado en la Automatizacion
+src/test/resources/drivers
+src/test/resources/app
+
+##Test Flag
+UniqueSessionFlag
+
+##Confgiraciones para Ejecuciones locales
+conf/

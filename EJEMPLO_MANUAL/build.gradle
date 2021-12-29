@@ -1,0 +1,33 @@
+repositories {
+    mavenCentral()
+}
+
+buildscript {
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+        classpath("net.serenity-bdd:serenity-gradle-plugin:2.1.6")
+    }
+}
+tasks.withType(Test){
+    systemProperties = System.properties
+}
+
+apply plugin: 'java'
+apply plugin: 'eclipse'
+apply plugin: 'idea'
+apply plugin: 'net.serenity-bdd.aggregator'
+compileJava.options.encoding = "UTF-8"
+compileTestJava.options.encoding = "UTF-8"
+
+dependencies {
+    testCompile 'net.serenity-bdd:serenity-core:2.1.6'
+    testCompile 'net.serenity-bdd:serenity-junit:2.1.6'
+    testCompile 'junit:junit:4.11'
+    testCompile group: 'org.assertj', name: 'assertj-core', version: '3.15.0'
+    compile group: 'net.serenity-bdd', name: 'serenity-core', version: '2.1.6'
+    compile group: 'net.serenity-bdd', name: 'serenity-junit', version: '2.1.6'
+    compile group: 'net.serenity-bdd', name: 'serenity-cucumber', version: '1.9.51'
+}
+gradle.startParameter.continueOnFailure = true

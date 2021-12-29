@@ -1,0 +1,9 @@
+
+^
+java:S1128"CRemove this unused import 'net.serenitybdd.screenplay.Performable'.(ð”„Îüÿÿÿÿ
+[
+java:S1128	"ERemove this unused import 'net.serenitybdd.screenplay.actions.Enter'.(—×—ë
+c	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(—†¥·
+g
+java:S1128
+"LRemove this unused import 'net.serenitybdd.screenplay.questions.JavaScript'.(…˜öÔúÿÿÿÿ

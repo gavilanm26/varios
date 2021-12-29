@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="08bb4713-a3ae-4f1f-a480-e81ac4e29371" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/5/05efc8b1657769a27696d478ded1e95f38737233" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/e/0edc689c7b31520f763b8334e719d5f75f76ed9e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/5/25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dc7177d8a0690155c0df796e460addc2b54c004" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/c/5c65a910bf966d531941aed041c65ee2a59c2347" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/7/679ea760e8bfe0cdd0d8fbcf43e709cb1ed4bf3c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e3d9ec6189a3cbcf8dff5a611ef5ffe431d74b3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/9/a9967d8caee85192bae3f8e8690d58fdd434a8d8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d8cb5cbce1a43032f298a8a920bbcc74b02e8877" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/3/e3e970eed748e2eea9c1c5136d7ea9366940966a" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8b41ce76d7b80d2b47e91b5f92c15f00eccf187" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/b/fbe448ebfc3eb2d4e308f6b8b043666f5b57235e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/co/com/tocumen/certificacion/proyectobase/userinterface/ViajandoConMenoresPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/questions/Answer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/tocumen/certificacion/proyectobase/questions/Answer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/tasks/GoTo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/tocumen/certificacion/proyectobase/tasks/GoTo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/tasks/Login.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/tasks/Search.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/tocumen/certificacion/proyectobase/tasks/SelectOpcion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/userinterface/ChoucairAcademyLoginPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/userinterface/ChoucairAcademyPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/co/com/tocumen/certificacion/proyectobase/userinterface/TocumenPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/co/com/choucair/certificacion/proyectobase/userinterface/SearchCoursePage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certificacion/proyectobase/runners/RunnerTags.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/tocumen/certificacion/proyectobase/runners/RunnerTags.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/co/com/choucair/certificacion/proyectobase/stepdefinitions/ChoucairAcadmyStepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/co/com/tocumen/certificacion/proyectobase/stepdefinitions/TocumenStepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/resources/features/ObjetosPerdidosTocumen.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/features/ViajarConMenoresTocumen.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-aba2d69f3ae494823f8b985b5a6df244a8e97b78c6b30d6d0f215900bcf4c157.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-aba2d69f3ae494823f8b985b5a6df244a8e97b78c6b30d6d0f215900bcf4c157.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/aba2d69f3ae494823f8b985b5a6df244a8e97b78c6b30d6d0f215900bcf4c157.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/aba2d69f3ae494823f8b985b5a6df244a8e97b78c6b30d6d0f215900bcf4c157.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/aba2d69f3ae494823f8b985b5a6df244a8e97b78c6b30d6d0f215900bcf4c157_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/aba2d69f3ae494823f8b985b5a6df244a8e97b78c6b30d6d0f215900bcf4c157_screenshots.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1ZP5r48PJqOlrunhu06Vf06Qo5b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/co/com/tocumen/certificacion/proyectobase" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;co.com.tocumen.certificacion.proyectobase.runners.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="08bb4713-a3ae-4f1f-a480-e81ac4e29371" name="Default Changelist" comment="" />
+      <created>1584728083651</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584728083651</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1716" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1596148341959">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1716" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596148341959" />
+    <state x="1828" y="119" key="FileChooserDialogImpl" timestamp="1596039435732">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1828" y="119" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596039435732" />
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom" timestamp="1596148734156">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596148734156" />
+    <state width="1323" height="256" key="GridCell.Tab.0.center" timestamp="1596148734156">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596148734156" />
+    <state width="1323" height="256" key="GridCell.Tab.0.left" timestamp="1596148734156">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596148734156" />
+    <state width="1323" height="256" key="GridCell.Tab.0.right" timestamp="1596148734156">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="256" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596148734156" />
+    <state x="1865" y="142" key="chooseDestDirectoryDialog" timestamp="1596147964121">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1865" y="142" key="chooseDestDirectoryDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596147964121" />
+    <state x="1431" y="0" key="new project wizard" timestamp="1596039437791">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1431" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1596039437791" />
+  </component>
+</project>
